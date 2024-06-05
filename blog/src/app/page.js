@@ -4,8 +4,7 @@ import Body from './components/layout/Body';
 
 export default function Home() {
   return (
-    // <main className="flex flex-col justify-space">
-    <main>
+    <main className="flex flex-col h-screen">
       <Header />
       <Body />
       <Footer />
